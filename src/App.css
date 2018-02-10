@@ -72,6 +72,10 @@ code {
   margin-right: 10px;
 }
 
+.headC {
+    padding-bottom: 0;
+}
+
 .panel {
     height: 150px;
 }
